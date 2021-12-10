@@ -9,7 +9,7 @@ really makes it easy to set up when most of the inital work has been done and yo
 to do what you would like it to do with the help of arcade.
 
 
-[Space Game (Module 5 Demo)](hhttps://youtu.be/8Tohh2erjO0)
+[Space Game (Module 5 Demo)](https://youtu.be/8Tohh2erjO0)
 
 # Development Environment
 
